@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on career building
 - 🌱 I’m currently learning development of webapps and services
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Github
